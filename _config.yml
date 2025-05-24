@@ -1,0 +1,34 @@
+title: Observatório Oceanográfico
+name: Observatório Oceanográfico
+email: observatoriooceanografico@gmail.com
+description: >-
+  Laboratório institucional vinculado à Universidade Federal Fluminense.
+url: "https://observatorio-oceanografico.github.io"
+baseurl: ""
+repository: observatorio-oceanografico/observatorio-oceanografico.github.io
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+
+logo: "/assets/img/O2_logo_branco.png"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+
+# Navegação
+nav:
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Equipe"
+    url: /equipe/
+  - title: "Projetos"
+    url: /projetos/
+  - title: "Notícias"
+    url: /noticias/
