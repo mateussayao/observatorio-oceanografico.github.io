@@ -3,7 +3,7 @@ layout: home
 author_profile: false
 title: "Bem-vindo ao Observatório Oceanográfico"
 header:
-  overlay_image: /assets/img/banner.jpg
+  overlay_image: /assets/img/banner_01.jpg
   overlay_filter: 0.3
   caption: "Pesquisa e inovação em Oceanografia"
 ---
