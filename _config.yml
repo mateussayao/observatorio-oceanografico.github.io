@@ -7,7 +7,7 @@ url: "https://observatorio-oceanografico.github.io"
 baseurl: ""
 repository: observatorio-oceanografico/observatorio-oceanografico.github.io
 
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
   - jekyll-include-cache
