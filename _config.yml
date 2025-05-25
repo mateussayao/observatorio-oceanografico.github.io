@@ -10,6 +10,7 @@ repository: observatorio-oceanografico/observatorio-oceanografico.github.io
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 
 logo: "/assets/img/O2_logo_branco.png"
