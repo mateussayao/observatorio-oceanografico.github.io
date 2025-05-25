@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-  {% include header.html %}
-
+  <head>
+    {% include head.html %}
+  </head>
   <body>
-    <div class="academic-container" style="display: flex; min-height: 100vh; font-family: system-ui, sans-serif;">
+    {% include header.html %}  <!-- Navbar superior padrão -->
+
+    <div class="academic-container" style="display: flex; min-height: 100vh;">
 
       <!-- Sidebar lateral -->
       <aside class="academic-sidebar" style="width: 280px; background-color: #f5f5f5; padding: 2rem; box-shadow: 2px 0 5px rgba(0,0,0,0.05); position: sticky; top: 0; height: 100vh; overflow-y: auto;">
@@ -39,6 +42,11 @@
       </main>
 
     </div>
+
+    {% include scripts.html %}
+  </body>
+</html>
+
 
     {% include scripts.html %}
   </body>
