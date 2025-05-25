@@ -1,0 +1,13 @@
+main:
+  - title: "Sobre nós"
+    url: /sobre/
+  - title: "Equipe"
+    url: /equipe/
+  - title: "Ensino"
+    url: /teaching/
+  - title: "Projetos"
+    url: /projects/
+  - title: "Extensão"
+    url: /extensao/
+  - title: "Notícias"
+    url: /noticias/

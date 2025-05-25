@@ -22,13 +22,18 @@ defaults:
       layout: single
       author_profile: true
 
-# Navegação
-nav:
-  - title: "Sobre"
-    url: /sobre/
-  - title: "Equipe"
-    url: /equipe/
-  - title: "Projetos"
-    url: /projetos/
-  - title: "Notícias"
-    url: /noticias/
+navigation: main
+
+collections:
+  teaching:
+    output: true
+    permalink: /teaching/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  extensao:
+    output: true
+    permalink: /extensao/:path/
+  equipe:
+    output: true
+    permalink: /equipe/:path/
