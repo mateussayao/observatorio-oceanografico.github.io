@@ -22,6 +22,12 @@ defaults:
       layout: single
       author_profile: true
 
+  - scope:
+      path: "_pages"
+    values:
+      layout: single
+      author_profile: false
+
 navigation: main
 
 collections:
