@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-![Foto de André Belem](/assets/img/equipe/andre-belem.jpg){: .align-left .profile-img }
+![Foto de André Belem](/assets/img/equipe/andre_belem.jpg){: .align-left .profile-img }
 
 ### Formação Acadêmica
 
