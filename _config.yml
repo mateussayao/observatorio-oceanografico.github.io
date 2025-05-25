@@ -31,12 +31,12 @@ defaults:
 navigation: main
 
 collections:
-  teaching:
+  ensino:
     output: true
-    permalink: /teaching/:path/
-  projects:
+    permalink: /ensino/:path/
+  projetos:
     output: true
-    permalink: /projects/:path/
+    permalink: /projetos/:path/
   extensao:
     output: true
     permalink: /extensao/:path/
