@@ -4,9 +4,9 @@ main:
   - title: "Equipe"
     url: /equipe/
   - title: "Ensino"
-    url: /teaching/
+    url: /ensino/
   - title: "Projetos"
-    url: /projects/
+    url: /projetos/
   - title: "Extensão"
     url: /extensao/
   - title: "Notícias"
