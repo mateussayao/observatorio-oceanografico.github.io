@@ -1,1 +1,5 @@
-Noticias MD teste
+---
+layout: single
+title: "Notícias"
+permalink: /noticias/
+---

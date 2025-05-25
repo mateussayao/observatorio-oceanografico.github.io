@@ -1,1 +1,6 @@
-Projetos MD teste
+---
+layout: single
+title: "Projetos"
+permalink: /projetos/
+---
+
