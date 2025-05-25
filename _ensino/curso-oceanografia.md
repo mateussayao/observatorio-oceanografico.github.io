@@ -1,8 +1,8 @@
 ---
 title: "Fundamentos de Oceanografia"
 layout: single
-collection: teaching
-permalink: /teaching/fundamentos-oceanografia/
+collection: ensino
+permalink: /ensino/fundamentos-oceanografia/
 ---
 
 Disciplina introdutória aos princípios físicos, químicos e geológicos do oceano.
