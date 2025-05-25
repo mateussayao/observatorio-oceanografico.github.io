@@ -1,14 +1,14 @@
 ---
 layout: academic_profile
-title: "André Belem"
+title: "André Belém"
 permalink: /equipe/andre-belem/
 profile:
-  name: "André Belem"
-  avatar: "/assets/img/andre.jpg"
-  email: "andre@uff.br"
+  name: "André Belém"
+  avatar: "/assets/img/andre-belem.jpg"
+  email: "andremelem@id.uff.br"
   github: "https://github.com/andrebelem"
-  orcid: "0000-0002-XXXX-YYYY"
-  scholar: "https://scholar.google.com.br/..."
+  orcid: "0000-0002-8865-6180"
+  scholar: "[Andre](https://scholar.google.com/citations?user=4fE3QFcAAAAJ&hl=en)"
   location: "Niterói, RJ"
 ---
 
