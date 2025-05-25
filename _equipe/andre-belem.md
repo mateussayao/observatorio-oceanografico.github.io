@@ -1,11 +1,15 @@
 ---
+layout: academic_profile
 title: "André Belem"
-layout: single
-author_profile: true
-author: andrebelem
 permalink: /equipe/andre-belem/
-sidebar:
-  nav: "equipe"
+profile:
+  name: "André Belem"
+  avatar: "/assets/img/andre.jpg"
+  email: "andre@uff.br"
+  github: "https://github.com/andrebelem"
+  orcid: "0000-0002-XXXX-YYYY"
+  scholar: "https://scholar.google.com.br/..."
+  location: "Niterói, RJ"
 ---
 
 Hi there 👋
