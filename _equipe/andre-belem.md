@@ -1,30 +1,11 @@
 ---
-title: "Prof. André Belem"
-layout: author_profile
-permalink: /equipe/andre-belem/
+title: "André Belem"
+layout: single
 author_profile: true
-
-name: "Prof. André Belem"
-avatar: "/assets/img/equipe/andre-belem.jpg"
-location: "UFF - Universidade Federal Fluminense, Brasil"
-role: "Professor e Coordenador do Observatório Oceanográfico"
-email: andrebelem@id.uff.br
-
-links:
-  - label: "Google Scholar"
-    url: https://scholar.google.com/citations?user=XXXXX
-  - label: "ORCID"
-    url: https://orcid.org/0000-0002-XXXX-XXXX
-  - label: "Lattes"
-    url: http://lattes.cnpq.br/XXXXXXXXXXXXX
-  - label: "GitHub"
-    url: https://github.com/andrebelem
-  - label: "Medium"
-    url: https://medium.com/@andrebelem
-  - label: "LinkedIn"
-    url: https://www.linkedin.com/in/andrebelem
-  - label: "ResearchGate"
-    url: https://www.researchgate.net/profile/Andre_Belem
+author: andrebelem
+permalink: /equipe/andre-belem/
+sidebar:
+  nav: "equipe"
 ---
 
 Hi there 👋
