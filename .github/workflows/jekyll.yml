@@ -3,7 +3,7 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main  # ou 'master' se esse for seu branch principal
+      - main  # Altere se seu branch principal for 'master'
 
 permissions:
   contents: read
@@ -31,7 +31,7 @@ jobs:
       - name: Build site with Jekyll
         run: bundle exec jekyll build
 
-      - name: Upload artifact
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: _site
@@ -46,3 +46,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
