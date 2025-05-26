@@ -3,7 +3,7 @@ name: Deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main  # Altere se seu branch principal for 'master'
+      - main
 
 permissions:
   contents: read
@@ -46,4 +46,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-
