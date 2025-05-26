@@ -49,3 +49,7 @@ collections:
   equipe:
     output: true
     permalink: /equipe/:path/
+
+include:
+  - _pages
+
