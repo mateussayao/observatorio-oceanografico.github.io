@@ -29,6 +29,11 @@ defaults:
       layout: single
       author_profile: false
 
+  - scope:
+      path: "_equipe"
+    values:
+      layout: academic_profile      
+
 navigation: main
 
 collections:
