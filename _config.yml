@@ -52,7 +52,7 @@ collections:
 
 include:
   - _pages
-  - assets/css/custom.css
+  - assets/css/custom_equipe.css
   
 sass:
   style: compressed
