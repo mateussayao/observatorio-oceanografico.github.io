@@ -13,24 +13,25 @@ profile:
   location: "Niterói, RJ"
 ---
 
-Hi there 👋
+## Oi pessoal 👋
 
-I am an Oceanographer, from the time when the hero was (is) Jacques Cousteau. My graduation focused on Geological Oceanography (B.Sc.) and Biological Oceanography (M.Sc.), both obtained at the Federal University of Rio Grande, RS Brazil in the period 1988–1993 and 1994–1997, respectively.
+Sou Oceanógrafo, da época em que o herói era (é) [Jacques Cousteau](https://pt.wikipedia.org/wiki/Jacques_Cousteau). Minha graduação foi em Oceanografia Geológica (Bacharelado) e Oceanografia Biológica (Mestrado), ambas obtidas na [Universidade Federal do Rio Grande (FURG)](https://www.furg.br/), RS – Brasil, nos períodos de 1988–1993 e 1994–1997, respectivamente.
 
-I had the opportunity to delve deep into Polar Oceanography, with my ⚡ first Antarctic cruise in 1994 (and the second in 1995) aboard the polar icebreaker Nathaniel B. Palmer (NBP94-5 and NPB95-5), where I learned about the diversity and beauty of the ice. I followed in the footsteps of my mentor at the time and immersed myself in another fantastic experience: my PhD in Polar Oceanography at the Alfred-Wegener Institute for Polar and Marine Research, Bremerhaven – Germany, between 1997 and 2002.
+Tive a oportunidade de me aprofundar na Oceanografia Polar, com meu ⚡ primeiro cruzeiro antártico em 1994 (e o segundo em 1995) a bordo do quebra-gelo polar *Nathaniel B. Palmer* (NBP94-5 e NPB95-5), onde aprendi sobre a diversidade e a beleza do gelo. Segui os passos do meu orientador da época e mergulhei em outra experiência fantástica: meu doutorado em Oceanografia Polar no [Alfred-Wegener Institute for Polar and Marine Research](https://www.awi.de/en.html), em Bremerhaven – Alemanha, entre 1997 e 2002.
 
-Back in *Terra Brasilis*, I began teaching at the State University of Santa Cruz (Eastern Bahia, Brazil) and later in Santos, SP (UNESP, the extinct UNIMONTE, UniSanta and Senac Santos), from 2003 to 2011. I earned my first post-doc at Escola de Engenharia de São Carlos (USP) between 2007–2008 in the area of Hydrometry/Hydrology and soon after fell in love with Paleoceanography during a post-doc at the Geochemistry Department, Universidade Federal Fluminense (UFF), between 2011–2015.
+De volta à *Terra Brasilis*, comecei a lecionar na Universidade Estadual de Santa Cruz (Bahia), e depois em Santos, SP (UNESP, a extinta UNIMONTE, UniSanta e Senac Santos), entre 2003 e 2011. Fiz meu primeiro pós-doutorado na Escola de Engenharia de São Carlos (USP) entre 2007–2008, na área de Hidrometria/Hidrologia, e logo depois me apaixonei pela Paleoceanografia durante um pós-doc no Departamento de Geoquímica da Universidade Federal Fluminense (UFF), entre 2011–2015.
 
-I am currently a professor at the School of Engineering, UFF, where I teach modeling and climate change to engineers, and physical oceanography to graduate students (see PPG-DOT).
+Atualmente sou professor na Escola de Engenharia da UFF, onde ensino modelagem e mudanças climáticas para engenheiros, e oceanografia física para alunos de pós-graduação (ver PPG-DOT).
 
-I’m (always) learning Python — yes, it’s an infinite learning curve! Just when you think you've learned everything you need, a new package appears that changes everything. I'm deeply specialized in time series analysis of oceanographic and climatic data, with a focus on low-frequency signals, and also Machine Learning 🤖 and Deep Learning 🧠.
+Estou (sempre) aprendendo Python — sim, é uma curva de aprendizado infinita! Quando você acha que já aprendeu tudo o que precisa, surge um novo pacote que muda tudo. Sou especializado em análise de séries temporais de dados oceanográficos e climáticos, com foco em sinais de baixa frequência, e também em Machine Learning 🤖 e Deep Learning 🧠.
 
-I’m currently working on a book about Time Series Analysis in Oceanography, and open to collaborations on paleoceanography and climate change tools. You can read some of my articles on [Medium](https://medium.com/@andrebelem).
+Atualmente estou trabalhando em um livro sobre Análise de Séries Temporais em Oceanografia, e aberto a colaborações nas áreas de paleoceanografia e ferramentas para mudanças climáticas. Você pode ler alguns dos meus artigos no [Medium](https://medium.com/@andrebelem).
 
-📫 How to reach me: pretty simple — my email is **andrebelem@id.uff.br**. You can also find me on LinkedIn, GitHub, ORCID, ResearchGate, or Lattes. If you'd like to talk in person, check out my current timetable at UFF.
+📫 Como falar comigo: bem simples — meu e-mail é **andrebelem@id.uff.br**. Você também me encontra no LinkedIn, GitHub, ORCID, ResearchGate ou Lattes. Se quiser conversar pessoalmente, consulte meu horário atual na UFF.
 
-Let's talk?
+Vamos conversar?
 
-💬 Ask me about my hobbies: I'm vegetarian and love cooking, help manage a community garden and a small botanical collection, and enjoy stand-up paddling 🏄‍♂️, Polynesian canoeing, scuba diving, and outdoor photography.
+💬 Me pergunte sobre meus hobbies: sou vegetariano e adoro cozinhar, ajudo a cuidar de uma horta comunitária e de uma pequena coleção botânica, e gosto de remar de stand-up paddle 🏄‍♂️, canoa polinésia, mergulhar e fazer fotografia ao ar livre.
 
-⚡ Fun fact: in 2024 I celebrated **30 years of Antarctic fieldwork**. Yes, almost every year, I head to the frozen continent, do research, meet people and... feel at home.
+⚡ Curiosidade: em 2024 comemorei **30 anos de trabalho de campo na Antártica**. Sim, quase todo ano, vou ao continente gelado, faço pesquisa, conheço pessoas e... me sinto em casa.
+
