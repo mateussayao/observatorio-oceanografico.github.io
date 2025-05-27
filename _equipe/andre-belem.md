@@ -4,7 +4,7 @@ title: "André Belém"
 permalink: /equipe/andre-belem/
 profile:
   name: "André Belém"
-  avatar: "/assets/img/andre-belem.jpg"
+  avatar: "/assets/img/equipe/andre-belem.jpg"
   email: "andremelem@id.uff.br"
   github: "https://github.com/andrebelem"
   orcid: "0000-0002-8865-6180"
