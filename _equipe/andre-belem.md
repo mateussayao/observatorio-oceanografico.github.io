@@ -4,6 +4,7 @@ title: "André Belém"
 permalink: /equipe/andre-belem/
 profile:
   name: "André Belém"
+  profession: "Oceanógrafo (Professor)"
   avatar: "/assets/img/equipe/andre-belem.jpg"
   email: "andremelem@id.uff.br"
   github: "https://github.com/andrebelem"
