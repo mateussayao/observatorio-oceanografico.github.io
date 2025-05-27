@@ -1,0 +1,48 @@
+
+/* Layout em grid responsivo */
+.equipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+/* Cartão de membro */
+.card {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 1rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  text-align: center;
+  padding: 1rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+/* Efeito hover */
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+}
+
+/* Imagem do perfil */
+.card img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.75rem;
+}
+
+/* Nome */
+.card h3 {
+  margin: 0.5rem 0 0.25rem 0;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+/* Localização */
+.card p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #666;
+}
