@@ -1,0 +1,9 @@
+<div class="equipe-grid">
+  {% for pessoa in site.equipe %}
+    <div class="card">
+      <img src="{{ pessoa.profile.avatar | relative_url }}" alt="{{ pessoa.profile.name }}">
+      <h3><a href="{{ pessoa.url | relative_url }}">{{ pessoa.profile.name }}</a></h3>
+      <p>{{ pessoa.profile.location }}</p>
+    </div>
+  {% endfor %}
+</div>
