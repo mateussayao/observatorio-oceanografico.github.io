@@ -52,9 +52,8 @@ collections:
 
 include:
   - _pages
+  - assets/css/custom.css
   
 sass:
   style: compressed
-
-include:
-  - assets/css/custom.css
+  
