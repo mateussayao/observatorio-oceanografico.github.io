@@ -5,7 +5,7 @@ permalink: /equipe/juliana-poustka/
 profile:
   name: "Juliana Poustka"
   profession: "Aluno(a) de Iniciação Científica"
-  avatar: "/assets/img/equipe/Juliana-Poustka.jpg"
+  avatar: "/assets/img/equipe/Juliana-Poustka.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
