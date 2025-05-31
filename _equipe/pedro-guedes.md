@@ -4,7 +4,7 @@ title: "Pedro Guedes"
 permalink: /equipe/pedro-guedes/
 profile:
   name: "Pedro Guedes"
-  profession: "Aluno(a) de Iniciação Científica"
+  profession: "Aluno de Iniciação Tecnológica"
   avatar: "/assets/img/equipe/Pedro-Guedes.jpg"
   email: "contato@observatoriooceanografico.org"
   github: ""
