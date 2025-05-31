@@ -5,7 +5,7 @@ permalink: /equipe/milla-vieira/
 profile:
   name: "Milla Vieira"
   profession: "Aluno(a) de Iniciação Científica"
-  avatar: "/assets/img/equipe/Milla-Vieira.jpg"
+  avatar: "/assets/img/equipe/Milla-Vieira.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
