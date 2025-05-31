@@ -5,7 +5,7 @@ permalink: /equipe/bernardo-chede/
 profile:
   name: "Bernardo Chede"
   profession: "Pós-doc"
-  avatar: "/assets/img/equipe/Bernardo-Chede.jpg"
+  avatar: "/assets/img/equipe/Bernardo-Chede.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
