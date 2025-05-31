@@ -4,7 +4,7 @@ title: "Rafael Ribeiro"
 permalink: /equipe/rafael-ribeiro/
 profile:
   name: "Rafael Ribeiro"
-  profession: "Aluno(a) de Iniciação Científica"
+  profession: "Aluno de Iniciação Tecnológica"
   avatar: "/assets/img/equipe/Rafael-Ribeiro.jpg"
   email: "contato@observatoriooceanografico.org"
   github: ""
