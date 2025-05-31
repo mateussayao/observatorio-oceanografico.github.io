@@ -5,7 +5,7 @@ permalink: /equipe/anna-monteiro/
 profile:
   name: "Anna Monteiro"
   profession: "Aluno(a) de Iniciação Científica e Extensão"
-  avatar: "/assets/img/equipe/Anna-Monteiro.jpg"
+  avatar: "/assets/img/equipe/Anna-Monteiro.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
