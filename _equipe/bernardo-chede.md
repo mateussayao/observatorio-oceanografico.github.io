@@ -4,7 +4,7 @@ title: "Bernardo Chede"
 permalink: /equipe/bernardo-chede/
 profile:
   name: "Bernardo Chede"
-  profession: "Aluno(a) de Iniciação Científica"
+  profession: "Pós-doc"
   avatar: "/assets/img/equipe/Bernardo-Chede.jpg"
   email: "contato@observatoriooceanografico.org"
   github: ""
@@ -15,8 +15,6 @@ profile:
 
 ## Olá! 👋
 
-Sou estudante vinculado(a) ao Observatório Oceanográfico da UFF, onde participo de projetos científicos e atividades de extensão.
-
-Gosto de aprender sobre ciência, tecnologia e temas ligados ao oceano 🌊. Em breve atualizarei esta página com mais detalhes sobre minha trajetória, interesses e projetos.
+Sou Pós-doc vinculado(a) ao Observatório Oceanográfico da UFF, onde participo de projetos científicos e pesquisa avançada.
 
 📫 Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
