@@ -5,7 +5,7 @@ permalink: /equipe/chris-santos/
 profile:
   name: "Chris Santos"
   profession: "Aluna de Doutorado"
-  avatar: "/assets/img/equipe/Chris-Santos.jpg"
+  avatar: "/assets/img/equipe/Chris-Santos.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
