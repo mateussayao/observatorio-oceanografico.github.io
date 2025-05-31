@@ -5,7 +5,7 @@ permalink: /equipe/maria-fernanda/
 profile:
   name: "Maria Fernanda"
   profession: "Aluna de Doutorado"
-  avatar: "/assets/img/equipe/Maria-Fernanda.jpg"
+  avatar: "/assets/img/equipe/Maria-Fernanda.png"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
