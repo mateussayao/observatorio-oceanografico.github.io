@@ -4,7 +4,7 @@ title: "Mateus Saiao"
 permalink: /equipe/mateus-saiao/
 profile:
   name: "Mateus Saiao"
-  profession: "Aluno(a) de Iniciação Científica"
+  profession: "Aluno de Mestrado"
   avatar: "/assets/img/equipe/Mateus-Saiao.jpg"
   email: "contato@observatoriooceanografico.org"
   github: ""
@@ -15,7 +15,7 @@ profile:
 
 ## Olá! 👋
 
-Sou estudante vinculado(a) ao Observatório Oceanográfico da UFF, onde participo de projetos científicos e atividades de extensão.
+Sou mestrando vinculado(a) ao Observatório Oceanográfico da UFF, onde participo de projetos científicos e atividades de extensão.
 
 Gosto de aprender sobre ciência, tecnologia e temas ligados ao oceano 🌊. Em breve atualizarei esta página com mais detalhes sobre minha trajetória, interesses e projetos.
 
