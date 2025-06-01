@@ -5,6 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "Graduação<br>(Eng. Agrícola e Ambiental)"
 ---
 
 ## Modelagem e Otimização de Sistemas Agrícolas e Ambientais
