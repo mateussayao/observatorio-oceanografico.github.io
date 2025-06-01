@@ -4,7 +4,7 @@ title: "Ensino"
 permalink: /ensino/
 ---
 
-<div class="equipe-grid">
+<div class="ensino-grid">
   {% for disciplina in site.ensino %}
     <div class="card card-ensino">
       {% if disciplina.image %}
