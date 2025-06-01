@@ -8,11 +8,16 @@ sidebar:
 
 Conheça os membros da nossa equipe.
 
-{% for member in site.equipe %}
-### [{{ member.title }}]({{ member.url }})
-
-![Foto de {{ member.title }}]({{ member.avatar }}){: .profilepic }
-
-{{ member.excerpt | markdownify }}
-<hr>
-{% endfor %}
+<div class="equipe-grid">
+  {% for member in site.equipe %}
+  <div class="card">
+    <a href="{{ member.url }}">
+      <img src="{{ member.avatar }}" alt="Foto de {{ member.title }}">
+      <h3>{{ member.title }}</h3>
+    </a>
+    {% if member.profile.location %}
+    <p>{{ member.profile.location }}</p>
+    {% endif %}
+  </div>
+  {% endfor %}
+</div>
