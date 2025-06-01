@@ -5,6 +5,7 @@ image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
+financiador: "FAPERJ"
 ---
 
 ## Geotecnologias para Análise da Vulnerabilidade Costeira no Estado do Rio de Janeiro em Cenários de Mudança Climática
