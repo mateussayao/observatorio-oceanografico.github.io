@@ -5,6 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "Graduação<br>(Eng. Agrícola e Ambiental)"
 ---
 
 ## Sistemas de Informações Geográficas com o Google Earth Engine
