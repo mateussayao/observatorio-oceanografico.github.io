@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Ensino"
 permalink: /ensino/
 ---
