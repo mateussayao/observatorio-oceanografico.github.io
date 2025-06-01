@@ -47,7 +47,6 @@
   margin-right: auto;
 }
 
-
 /* Nome */
 .card h3 {
   margin: 0.5rem 0 0.25rem 0;
@@ -60,4 +59,29 @@
   margin: 0;
   font-size: 0.9rem;
   color: #666;
+}
+
+.topbar {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.topbar-menu {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.topbar-menu li a {
+  text-decoration: none;
+  color: #0366d6;
+  font-weight: 500;
+}
+
+.topbar-menu li a:hover {
+  text-decoration: underline;
 }
