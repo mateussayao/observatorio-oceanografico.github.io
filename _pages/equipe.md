@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: equipe_index
 title: "Equipe"
 permalink: /equipe/
 sidebar:
