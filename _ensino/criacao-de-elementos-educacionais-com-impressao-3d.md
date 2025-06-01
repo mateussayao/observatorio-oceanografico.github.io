@@ -5,6 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "Graduação"
 ---
 
 ## Criação de Elementos Educacionais com Impressão 3D
