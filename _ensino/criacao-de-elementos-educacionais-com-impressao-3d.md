@@ -6,8 +6,8 @@ collection: ensino
 layout: single
 author_profile: false
 nivel: | 
-Graduação
-(Todos os cursos)
+  Graduação
+  (Todos os cursos)
 ---
 
 ## Criação de Elementos Educacionais com Impressão 3D
