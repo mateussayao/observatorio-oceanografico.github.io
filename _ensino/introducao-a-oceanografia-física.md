@@ -1,13 +1,14 @@
 ---
-title: "Introdução à Oceanografia Fìsica"
+title: "Introdução à Oceanografia Física"
 permalink: /ensino/introducao-a-oceanografia-física/
 image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "pós-graduação no PPG-DOT/UFF"
 ---
 
-## Introdução à Oceanografia Fìsica
+## Introdução à Oceanografia Física
 
 **Nível:** pós-graduação  
 
