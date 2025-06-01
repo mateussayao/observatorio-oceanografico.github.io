@@ -1,6 +1,7 @@
 ---
 title: "Projeto Ara-Tinga"
 permalink: /projetos/projeto-ara-tinga/
+image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
