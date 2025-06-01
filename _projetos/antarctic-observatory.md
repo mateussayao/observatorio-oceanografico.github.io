@@ -5,7 +5,6 @@ image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
-financiador: "O2"
 financiador: "Internacional<br>(multiplas fontes)"
 ---
 
