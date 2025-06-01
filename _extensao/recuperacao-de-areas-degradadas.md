@@ -1,7 +1,7 @@
 ---
 title: "Recuperação de Áreas Degradadas"
 permalink: /extensao/recuperacao-de-areas-degradadas/
-image: /assets/img/extensao1.jpg
+image: /assets/img/extensao_base.png
 resumo: "Projeto de recuperação de áreas degradadas com foco em práticas sustentáveis no LUMAS (UFF)."
 ---
 
