@@ -5,7 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
-nivel: "pós-graduação no PPG-DOT/UFF"
+nivel: "Pós-graduação<br>PPG-DOT/UFF"
 ---
 
 ## Introdução à Oceanografia Física
