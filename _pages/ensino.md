@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ensino_index
 title: "Ensino"
 permalink: /ensino/
 ---
