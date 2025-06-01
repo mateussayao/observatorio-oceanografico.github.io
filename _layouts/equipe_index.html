@@ -11,7 +11,7 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <h1>Conheça os membros da nossa equipe.</h1>
-         <div class="equipe-grid">
+         <div class="card-grid">
           {% for pessoa in site.equipe %}
             <div class="card">
               <img src="{{ pessoa.profile.avatar | relative_url }}" alt="{{ pessoa.profile.name }}">
