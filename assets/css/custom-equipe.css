@@ -24,12 +24,30 @@
   box-shadow: 0 8px 16px rgba(0,0,0,0.1);
 }
 
-/* Imagem do perfil */
+/* Para fotos de perfil (equipe) */
 .card img {
   width: 100px;
   height: 100px;
   object-fit: cover;
   border-radius: 50%;
+  margin-bottom: 0.75rem;
+}
+
+/* Para disciplinas (ensino) */
+.img-ensino {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: contain;
+  margin-bottom: 0.75rem;
+}
+
+/* Para projetos */
+.img-projeto {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  object-fit: contain;
   margin-bottom: 0.75rem;
 }
 
