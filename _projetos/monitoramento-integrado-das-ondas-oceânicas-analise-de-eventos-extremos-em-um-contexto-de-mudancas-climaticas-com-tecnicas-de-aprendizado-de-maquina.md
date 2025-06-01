@@ -5,6 +5,7 @@ image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
+financiador: "FAPERJ"
 ---
 
 ## Monitoramento Integrado das Ondas Oceânicas: Análise de Eventos Extremos em um Contexto de Mudanças Climáticas com Técnicas de Aprendizado de Máquina
