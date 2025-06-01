@@ -7,6 +7,14 @@
   padding: 2rem 0;
 }
 
+/* Layout em grid responsivo para cards */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
 /* Layout em grid responsivo para ensino*/
 .ensino-grid {
   display: grid;
