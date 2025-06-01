@@ -11,8 +11,11 @@ permalink: /ensino/
         <img class="img-ensino" src="{{ disciplina.image | relative_url }}" alt="{{ disciplina.title }}">
       {% endif %}
       <h3><a href="{{ disciplina.url | relative_url }}">{{ disciplina.title }}</a></h3>
-      <p>{{ disciplina.excerpt | markdownify }}</p>
+      {% if disciplina.nivel %}
+        <p style="font-size: 0.9rem; color: #555; margin-top: 0.25rem;">{{ disciplina.nivel }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
+
 
