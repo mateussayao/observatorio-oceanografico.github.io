@@ -1,6 +1,7 @@
 ---
 title: "Métodos de Análise de Dados em Oceanografia Física"
 permalink: /ensino/metodos-de-analise-de-dados-em-oceanografia-fisica/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
