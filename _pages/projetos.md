@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: projetos_index
 title: "Projetos"
 permalink: /projetos/
 ---
