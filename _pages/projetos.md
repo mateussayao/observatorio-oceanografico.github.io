@@ -11,9 +11,12 @@ permalink: /projetos/
         <img class="img-projeto" src="{{ projeto.image | relative_url }}" alt="{{ projeto.title }}">
       {% endif %}
       <h3><a href="{{ projeto.url | relative_url }}">{{ projeto.title }}</a></h3>
-      <p>{{ projeto.excerpt | markdownify }}</p>
+      {% if projeto.financiador %}
+        <p class="financiador-label">{{ projeto.financiador }}</p>
+      {% endif %}
     </div>
   {% endfor %}
 </div>
+
 
 
