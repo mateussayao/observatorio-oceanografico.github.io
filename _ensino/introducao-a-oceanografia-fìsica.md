@@ -1,6 +1,7 @@
 ---
 title: "Introdução à Oceanografia Fìsica"
-permalink: /ensino/introducao-a-oceanografia-fìsica/
+permalink: /ensino/introducao-a-oceanografia-física/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
