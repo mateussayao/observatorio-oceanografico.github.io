@@ -1,5 +1,5 @@
 ---
-layout: equipe-index
+layout: equipe_index
 title: "Ensino"
 permalink: /ensino/
 ---
