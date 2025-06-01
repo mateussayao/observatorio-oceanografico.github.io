@@ -1,9 +1,8 @@
 <nav class="site-nav">
   <ul>
-    <li><a href="/">Início</a></li>
-    <li><a href="/sobre/">Sobre</a></li>
-    <li><a href="/ensino/">Ensino</a></li>
-    <li><a href="/projetos/">Projetos</a></li>
-    <li><a href="/equipe/">Equipe</a></li>
+    {% for item in site.data.navigation.main %}
+      <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+    {% endfor %}
   </ul>
 </nav>
+
