@@ -1,6 +1,7 @@
 ---
 title: "Geotecnologias para Análise da Vulnerabilidade Costeira no Estado do Rio de Janeiro em Cenários de Mudança Climática"
 permalink: /projetos/geotecnologias-para-analise-da-vulnerabilidade-costeira-no-estado-do-rio-de-janeiro-em-cenarios-de-mudanca-climatica/
+image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
