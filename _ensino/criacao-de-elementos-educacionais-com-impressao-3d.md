@@ -1,6 +1,7 @@
 ---
 title: "Criação de Elementos Educacionais com Impressão 3D"
 permalink: /ensino/criacao-de-elementos-educacionais-com-impressao-3d/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
