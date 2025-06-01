@@ -5,6 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "Graduação<br>(Todos os cursos)"
 ---
 
 ## Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana
