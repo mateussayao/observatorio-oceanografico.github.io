@@ -1,6 +1,7 @@
 ---
 title: "Mudanças Climáticas, Mitigação, Adaptação e Segurança Alimentar"
 permalink: /ensino/mudancas-climaticas-mitigacao-adaptacao-e-seguranca-alimentar/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
