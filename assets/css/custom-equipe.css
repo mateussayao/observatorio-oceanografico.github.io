@@ -33,23 +33,20 @@
   margin-bottom: 0.75rem;
 }
 
-/* Para disciplinas (ensino) */
-.img-ensino {
-  width: 100%;
-  height: auto;
-  border-radius: 0.5rem;
-  object-fit: contain;
-  margin-bottom: 0.75rem;
-}
-
-/* Para projetos */
+/* Para disciplinas (ensino) e projetos (projeto) */
+.img-ensino,
 .img-projeto {
   width: 100%;
+  max-width: 240px;         /* ✅ limita o tamanho máximo */
   height: auto;
   border-radius: 0.5rem;
   object-fit: contain;
   margin-bottom: 0.75rem;
+  display: block;           /* ✅ garante alinhamento */
+  margin-left: auto;        /* ✅ centraliza */
+  margin-right: auto;
 }
+
 
 /* Nome */
 .card h3 {
