@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang="pt">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include head.html %}
     <title>{{ page.title }}</title>
   </head>
   <body>
+
+    {% include nav.html %}  <!-- ✅ Isso carrega a barra superior -->
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}
       </div>
     </main>
+
   </body>
 </html>
