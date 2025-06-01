@@ -1,6 +1,7 @@
 ---
 title: "Modelagem e Otimização de Sistemas Agrícolas e Ambientais"
 permalink: /ensino/modelagem-e-otimizacao-de-sistemas-agricolas-e-ambientais/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
