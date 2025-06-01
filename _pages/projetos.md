@@ -4,12 +4,12 @@ title: "Projetos"
 permalink: /projetos/
 ---
 
-Conheça os projetos vinculados ao Observatório Oceanográfico da UFF.
-
-<ul>
+<div class="equipe-grid">
   {% for projeto in site.projetos %}
-    <li>
-      <a href="{{ projeto.url | relative_url }}">{{ projeto.title }}</a>
-    </li>
+    <div class="card">
+      <h3><a href="{{ projeto.url | relative_url }}">{{ projeto.title }}</a></h3>
+      <p>{{ projeto.excerpt | markdownify }}</p>
+    </div>
   {% endfor %}
-</ul>
+</div>
+
