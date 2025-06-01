@@ -1,13 +1,18 @@
 ---
-title: Ensino
-layout: collection
+layout: page
+title: "Ensino"
 permalink: /ensino/
-collection: ensino
 ---
 
-
-<ul>
-  {% for item in site.ensino %}
-    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+<div class="equipe-grid">
+  {% for disciplina in site.ensino %}
+    <div class="card">
+      {% if disciplina.image %}
+        <img src="{{ disciplina.image | relative_url }}" alt="Imagem de {{ disciplina.title }}">
+      {% endif %}
+      <h3><a href="{{ disciplina.url | relative_url }}">{{ disciplina.title }}</a></h3>
+      <p>{{ disciplina.excerpt | markdownify }}</p>
+    </div>
   {% endfor %}
-</ul>
+</div>
+
