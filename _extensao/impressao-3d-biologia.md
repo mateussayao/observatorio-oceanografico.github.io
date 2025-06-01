@@ -1,7 +1,7 @@
 ---
 title: "Impressão 3D de Elementos Educacionais em Biologia"
 permalink: /extensao/impressao-3d-biologia/
-image: /assets/img/extensao2.jpg
+image: /assets/img/extensao_base.png
 resumo: "Desenvolvimento de modelos 3D para ensino de biologia em escolas públicas, como parte do programa SIAEX."
 ---
 
