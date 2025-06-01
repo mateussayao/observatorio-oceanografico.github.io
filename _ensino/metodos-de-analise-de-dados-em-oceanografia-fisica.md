@@ -5,6 +5,7 @@ image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
+nivel: "Pós-graduação<br>PPG-DOT/UFF"
 ---
 
 ## Métodos de Análise de Dados em Oceanografia Física
