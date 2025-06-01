@@ -1,6 +1,6 @@
 ---
 title: Extensão
-layout: collection
+layout: extensao_index
 permalink: /extensao/
 collection: extensao
 ---
