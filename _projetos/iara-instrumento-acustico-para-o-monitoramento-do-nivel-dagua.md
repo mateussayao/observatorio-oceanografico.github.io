@@ -5,6 +5,7 @@ image: "/assets/img/projetos/projeto_basico.png"
 collection: projetos
 layout: single
 author_profile: false
+financiador: "AGIR (UFF)<br>CNPq"
 ---
 
 ## IARA: Instrumento Acústico para o monitoRamento do nível d’águA
