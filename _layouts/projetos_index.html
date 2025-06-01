@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    {% include head.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+
+    {% include masthead.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <h1>Nossos projetos de pesquisa e extensão.</h1>
+        <div class="equipe-grid">
+          {% for projeto in site.projetos %}
+            <div class="card">
+              {% if projeto.image %}
+                <img src="{{ projeto.image | relative_url }}" alt="{{ projeto.title }}">
+              {% endif %}
+              <h3><a href="{{ projeto.url | relative_url }}">{{ projeto.title }}</a></h3>
+              {% if projeto.resumo %}
+                <p>{{ projeto.resumo }}</p>
+              {% endif %}
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>
