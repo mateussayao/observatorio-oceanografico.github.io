@@ -1,6 +1,7 @@
 ---
 title: "Sensoriamento Remoto e GIS para Geocientistas"
 permalink: /ensino/sensoriamento-remoto-e-gis-para-geocientistas/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
