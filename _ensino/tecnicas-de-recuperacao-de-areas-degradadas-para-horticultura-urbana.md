@@ -1,6 +1,7 @@
 ---
 title: "Técnicas de Recuperação de Áreas Degradadas para Horticultura Urbana"
 permalink: /ensino/tecnicas-de-recuperacao-de-areas-degradadas-para-horticultura-urbana/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
