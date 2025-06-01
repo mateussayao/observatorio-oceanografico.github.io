@@ -1,6 +1,7 @@
 ---
 title: "Sistemas de Informações Geográficas com o Google Earth Engine"
 permalink: /ensino/sistemas-de-informacoes-geograficas-com-o-google-earth-engine/
+image: "/assets/img/ensino/ensino_basico.png"
 collection: ensino
 layout: single
 author_profile: false
