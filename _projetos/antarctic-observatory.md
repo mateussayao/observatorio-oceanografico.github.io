@@ -6,6 +6,7 @@ collection: projetos
 layout: single
 author_profile: false
 financiador: "O2"
+financiador: "Internacional<br>(multiplas fontes)"
 ---
 
 ## Antarctic Observatory
