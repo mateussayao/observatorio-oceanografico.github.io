@@ -108,3 +108,15 @@
   max-width: 1200px;
   margin: 0 auto;
 }
+
+.page__footer,
+.page__footer-follow,
+.page__footer-copyright {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;
+}
+
