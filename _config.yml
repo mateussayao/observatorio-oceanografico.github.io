@@ -12,6 +12,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
+  - jekyll-feed
 
 logo: "/assets/img/O2_logo_branco.png"
 
