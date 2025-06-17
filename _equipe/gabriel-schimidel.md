@@ -8,7 +8,7 @@ profile:
   avatar: "/assets/img/equipe/Gabriel-Schimidel.jpg"
   email: "contato@observatoriooceanografico.org"
   github: "https://github.com/Schimidel"
-  orcid: "https://orcid.org/0009-0003-5746-1596"
+  orcid: "0009-0003-5746-1596"
   scholar: "https://scholar.google.com.br/citations?user=5eyoNxUAAAAJ&hl=en"
   location: "UFF - Niterói, RJ"
 ---
@@ -27,5 +27,6 @@ Me interesso por diversas áreas dentro das Ciências Ambientais e da Engenharia
 
 Gosto de aprender sobre ciência, tecnologia e tudo que envolva o estudo do oceano
 
+Lattes: http://lattes.cnpq.br/8948368662954411
 Email: gabrielschimidel@id.uff.br ou gabriel.schimidel@gmail.com
 📫 Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
