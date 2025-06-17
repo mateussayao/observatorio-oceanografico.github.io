@@ -21,12 +21,14 @@ Atualmente, estou desenvolvendo uma pesquisa de Iniciação Científica com foco
 
 Além disso, estou desenvolvendo um modelo hidrodinâmica para simular o estuário de Santos utilizando o modelo Sisbahia, com foco em estudar potenciais fontes pontuais de plástico na região. Durante esse período, pude aprofundar meus conhecimentos em dinâmica estuarina, calibração de modelos e análise de resultados aplicados à gestão costeira.
 
-Também realizei um estudo sobre a evolução da Água Intermediária Antártica (AAIW) em cenários climáticos futuros, utilizando saídas de modelos do CMIP6. Nesse trabalho, analisei como as mudanças climáticas podem impactar a formação, circulação e propriedades físicas dessa massa de água, que desempenha um papel importante na ventilação do oceano profundo e no ciclo global do carbono.
+Também realizei um estudo sobre a evolução da Água Intermediária Antártica (AAIW) em cenários climáticos futuros, utilizando saídas de modelos climáticos do CMIP6. Esse estudo resultou no meu [Trabalho de Conclusão de Curso (TCC)].(https://app.uff.br/riuff/bitstream/handle/1/35935/TCC_GabrielSchimidel.pdf?sequence=3&isAllowed=y), no qual analisei como as mudanças climáticas podem impactar a formação, a circulação e as propriedades físicas dessa massa de água. A AAIW desempenha um papel fundamental na ventilação do oceano profundo e no ciclo global do carbono, sendo um importante vetor de transporte de oxigênio e nutrientes para as camadas intermediárias do oceano. Através da análise de diferentes cenários de emissão de gases de efeito estufa, busquei compreender as possíveis alterações nas características da AAIW nas próximas décadas, contribuindo para o entendimento dos impactos climáticos de longo prazo na circulação oceânica e nos processos biogeoquímicos associados.
 
 Me interesso por diversas áreas dentro das Ciências Ambientais e da Engenharia, com destaque para hidrologia, saneamento ambiental, mudanças climáticas, gestão costeira e oceanografia física. Tenho grande interesse em temas que envolvem modelagem numérica, análise de dados ambientais, climatologia e recursos hídricos.
 
 Gosto de aprender sobre ciência, tecnologia e tudo que envolva o estudo do oceano
 
 Lattes: http://lattes.cnpq.br/8948368662954411
+
 Email: gabrielschimidel@id.uff.br ou gabriel.schimidel@gmail.com
+
 📫 Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
