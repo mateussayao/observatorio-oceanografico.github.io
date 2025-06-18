@@ -4,7 +4,7 @@ title: "Milla Vieira"
 permalink: /equipe/milla-vieira/
 profile:
   name: "Milla Vieira"
-  profession: "Aluno(a) de Iniciação Científica"
+  profession: "Aluna de Iniciação Científica"
   avatar: "/assets/img/equipe/Milla-Vieira.png"
   email: "millasantos@id.uff.br"
   github: "https://github.com/vvieiramilla"
