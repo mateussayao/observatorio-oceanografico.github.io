@@ -13,10 +13,21 @@ profile:
   location: "UFF - Niterói, RJ"
 ---
 
-## Olá! 👋
+Olá! 
 
-Sou alunda de doutorado vinculado(a) ao Observatório Oceanográfico da UFF, onde participo de projetos científicos e atividades de extensão.
+Sou oceanógrafa formada pela Universidade do Estado do Rio de Janeiro (UERJ), onde pude explorar diferentes áreas da oceanografia, com foco final em um projeto sobre dinâmica de sedimentos.
 
-Gosto de aprender sobre ciência, tecnologia e temas ligados ao oceano 🌊. Em breve atualizarei esta página com mais detalhes sobre minha trajetória, interesses e projetos.
+Depois da graduação, segui por um caminho no setor corporativo, atuando em diversas áreas da gestão e licenciamento ambiental na Eeletrobras Eletronuclear através do Instituto Brasileiro da Qualidade Nuclear. Nesse período, participei ativamente de projetos científicos dentro da empresa, processos com órgãos licenciadores e monitoramento ambiental, o que me permitiu unir teoria e prática de forma muito enriquecedora.
 
-📫 Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
+Em busca de aprofundar meus conhecimentos, concluí um MBA em Gestão Ambiental pela Coppe-UFRJ, onde adquiri uma base sólida sobre exigências legais e práticas sustentáveis no contexto empresarial.
+
+Após essa experiência no mundo corporativo, me tornei mae em tempo integral -  a experiência mais transformadora e profunda de autoconhecimento que já vivi 💞️.
+
+Em 2021, senti o desejo de retornar à pesquisa acadêmica. Voluntariamente, mergulhei novamente na ciência e, recentemente, finalizei o mestrado, onde a pesquisa central foi sobre ondas de calor marinhas — fenômenos extremos que afetam diretamente os ecossistemas oceânicos.
+
+Atualmente, sou doutoranda na Universidade Federal Fluminense (UFF), onde pesquiso eventos extremos no oceano e a variabilidade do clima.
+
+Estou sempre aberta a novos desafios e oportunidades de troca. Se você se interessa por oceanografia, ciências ambientais ou quiser apenas conversar sobre ideias, será um prazer te ouvir!
+
+📖 Sigo aprendendo constantemente sobre Python e Machine Learning.
+📫 Você pode me encontrar pelo e-mail: christianacs@id.uff.br ou pelo LinkedIn: linkedin.com/in/christianacsantos
