@@ -7,7 +7,7 @@ profile:
   profession: "Aluna de Doutorado"
   avatar: "/assets/img/equipe/Chris-Santos.png"
   email: "contato@observatoriooceanografico.org"
-  github: ""
+  github: "https://github.com/christianacsantos"
   orcid: ""
   scholar: ""
   location: "UFF - Niterói, RJ"
