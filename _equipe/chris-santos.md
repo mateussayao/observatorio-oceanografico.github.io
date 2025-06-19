@@ -8,8 +8,8 @@ profile:
   avatar: "/assets/img/equipe/Chris-Santos.png"
   email: "contato@observatoriooceanografico.org"
   github: "https://github.com/christianacsantos"
-  orcid: ""
-  scholar: ""
+  orcid: "https://orcid.org/0000-0003-1720-191X"
+  scholar: "https://scholar.google.com.au/citations?hl=en&user=b0M-mG4AAAAJ"
   location: "UFF - Niterói, RJ"
 ---
 
