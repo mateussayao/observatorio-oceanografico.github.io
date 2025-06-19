@@ -30,4 +30,4 @@ Atualmente, sou doutoranda na Universidade Federal Fluminense (UFF), onde pesqui
 Estou sempre aberta a novos desafios e oportunidades de troca. Se você se interessa por oceanografia, ciências ambientais ou quiser apenas conversar sobre ideias, será um prazer te ouvir!
 
 📖 Sigo aprendendo constantemente sobre Python e Machine Learning.
-📫 Você pode me encontrar pelo e-mail: christianacs@id.uff.br ou pelo LinkedIn: linkedin.com/in/christianacsantos
+📫 Você pode me encontrar pelos contatos acima descritos
