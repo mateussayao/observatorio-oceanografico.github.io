@@ -5,7 +5,7 @@ permalink: /equipe/milla-vieira/
 profile:
   name: "Milla Vieira"
   profession: "Aluna de Iniciação Científica"
-  avatar: "/assets/img/equipe/Milla-Vieira.png"
+  avatar: "/assets/img/equipe/Milla-Vieira.jpg"
   email: "millasantos@id.uff.br"
   github: "https://github.com/vvieiramilla"
   orcid: "https://orcid.org/0009-0005-2510-2470"
