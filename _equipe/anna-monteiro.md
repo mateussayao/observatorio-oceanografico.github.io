@@ -21,8 +21,8 @@ profile:
 
 🐧 No Observatório Oceanográfico (O2), integro o projeto de Impressões 3D, que tem como objetivo desenvolver recursos didáticos e científicos utilizando modelagem e impressão (iniciando o projeto de crânios de animais marinhos!). Nesse contexto, venho aplicando conhecimentos em programação e design para transformar aquilo que só vemos em "imagens do Google" em objetos físicos acessíveis, que auxiliam tanto na educação quanto na visualização científica.
 
-🔬 Ao longo da graduação, participei de iniciativas que reforçaram meu interesse pela interseção entre tecnologia e sustentabilidade — desde modelagens com Python e Lua até experiências em análise de dados ambientais no contexto de consultoria internacional. Também aprofundei meus estudos em lógica computacional e inovação digital, sempre buscando formas criativas e eficazes de resolver problemas reais.
+🔬 Ao longo da graduação, participei de iniciativas que reforçaram meu interesse pela interseção entre tecnologia e sustentabilidade — desde modelagem de dados ambientais para elaboração de mapas de vulnerabilidade socioambiental, atendimento técnico ao público e análise de processos e licenças ambientais no LaMMoC/ICT (UFF), curso CS50 de Harvard para aprimorar meus códigos em C, Python e Lua (fiz um jogo de Tower Defense como projeto final!!!), até experiências em análise de dados ambientais no contexto de consultoria internacional. Também aprofundei meus estudos em lógica computacional e inovação digital, sempre buscando formas criativas e eficazes de resolver problemas reais.
 
-🧑‍🏫 Tenho interesse por temas como mudanças climáticas, ciência aberta, comunicação científica e o uso de tecnologias no âmbito ambiental. Acredito que a ciência pode ser compartilhada de forma clara e criativa.
+🧑‍🏫 Tenho interesse por temas como mudanças climáticas, ciência aberta, comunicação científica e o uso de tecnologias na área ambiental. Acredito muito que a ciência pode ser compartilhada de forma clara e criativa!
 
-🤝 Fico à disposição para colaborações, ideias conjuntas ou apenas boas conversas sobre caminhos sustentáveis.
+🤝 Fico à disposição para colaborações, ideias conjuntas ou apenas boas conversas sobre caminhos sustentáveis e novos projetos.
