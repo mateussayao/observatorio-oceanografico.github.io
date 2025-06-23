@@ -14,7 +14,7 @@ profile:
 ---
 
 ---
-🧠 Oi, pessoal!
+🧠 Oi, pessoal, Aqui é a Anna!
 ---
 
 🌱 Sou graduanda em Engenharia Ambiental na Universidade Federal Fluminense (UFF), onde venho desenvolvendo uma trajetória voltada à integração entre ciência, tecnologia e meio ambiente. Tenho especial interesse em soluções inovadoras para desafios climáticos e abordagens sustentáveis.
