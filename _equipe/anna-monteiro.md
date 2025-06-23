@@ -9,6 +9,7 @@ profile:
   email: "anna_monteiro@id.uff.br"
   github: "https://github.com/annacomonteiro"
   orcid: "https://orcid.org/0009-0005-7563-3798"
+  Lattes: "https://lattes.cnpq.br/0854366085223332"
   location: "UFF - Niterói, RJ"
 ---
 
