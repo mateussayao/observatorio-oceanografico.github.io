@@ -1,7 +1,7 @@
 ---
 title: "Antarctic Observatory"
 permalink: /projetos/antarctic-observatory/
-image: "/assets/img/projetos/projeto_basico.png"
+image: "/assets/img/projetos/AntarcticObservatory.png"
 collection: projetos
 layout: single
 author_profile: false
