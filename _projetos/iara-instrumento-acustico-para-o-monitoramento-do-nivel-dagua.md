@@ -1,7 +1,7 @@
 ---
 title: "IARA: Instrumento Acústico para o monitoRamento do nível d’águA"
 permalink: /projetos/iara-instrumento-acustico-para-o-monitoramento-do-nivel-dagua/
-image: "/assets/img/projetos/projeto_basico.png"
+image: "/assets/img/projetos/yara.png"
 collection: projetos
 layout: single
 author_profile: false
