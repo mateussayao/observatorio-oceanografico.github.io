@@ -25,8 +25,8 @@ Também realizei um estudo sobre a evolução da Água Intermediária Antártica
 
 Me interesso por diversas áreas dentro das Ciências Ambientais e da Engenharia, com destaque para hidrologia, saneamento ambiental, mudanças climáticas, gestão costeira e oceanografia física. Tenho grande interesse em temas que envolvem modelagem numérica, análise de dados ambientais, climatologia e recursos hídricos.
 
-Lattes: http://lattes.cnpq.br/8948368662954411
+Lattes: [http://lattes.cnpq.br/8948368662954411](http://lattes.cnpq.br/8948368662954411)
 
-Email: gabrielschimidel@id.uff.br ou gabriel.schimidel@gmail.com
+Email: [gabrielschimidel@id.uff.br](gabrielschimidel@id.uff.br) ou [gabriel.schimidel@gmail.com](gabriel.schimidel@gmail.com)
 
 📫 Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
