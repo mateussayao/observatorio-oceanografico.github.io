@@ -6,24 +6,7 @@ sidebar:
   nav: equipe
 ---
 
-Conheça os membros da nossa equipe.
-
-<div class="equipe-grid">
-  {% for member in site.equipe %}
-  <div class="card">
-    <a href="{{ member.url }}">
-      <img src="{{ member.avatar }}" alt="Foto de {{ member.title }}">
-      <h3>{{ member.title }}</h3>
-    </a>
-    {% if member.profile.location %}
-    <p>{{ member.profile.location }}</p>
-    {% endif %}
-  </div>
-  {% endfor %}
-</div>
-
----
-# Alumni do Observatório Oceanográfico
+# Alumni do Observatório Oceanográfico (Ex-membros)
 
 Ex-integrantes que passaram pelo Observatório Oceanográfico e hoje seguem outros caminhos acadêmicos ou profissionais.
 - **Anna Amandi Palma Diniz Baker** — IC voluntário (2019), projeto: DINAMO. Tempo de vínculo: 3 meses. Atualmente: desconhecido.
