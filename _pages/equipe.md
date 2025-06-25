@@ -5,7 +5,7 @@ permalink: /equipe/
 sidebar:
   nav: equipe
 ---
-
+<div class="alumni-texto">
 # Alumni do Observatório Oceanográfico (Ex-membros)
 
 Ex-integrantes que passaram pelo Observatório Oceanográfico e hoje seguem outros caminhos acadêmicos ou profissionais.
@@ -46,3 +46,4 @@ Ex-integrantes que passaram pelo Observatório Oceanográfico e hoje seguem outr
 - **Wanda Cristina Tavares Fringinio** — graduação (2018–2019), projeto: DINAMO. Tempo de vínculo: 13 meses. Atualmente: [Linkedin](https://www.linkedin.com/in/wandatavares/)
 - **Yaci Gallo Alvarez** — mestrado PPG-PGEB (2016–2018), Tempo de vínculo: 28 meses; Bolsa Fundação Arthur Bernardes (projeto Rural Sustentável). Bolsista DTI 2018–2018), projeto: Rede Clima. Tempo de vínculo: 4 meses; doutorado PPG-DOT (2018–2019), doutorado sanduiche (2019–2021), projeto: PRINT-CAPES Climate-UFF. Tempo de vínculo: 13 meses. Atualmente: [Linkedin](https://www.linkedin.com/in/yaci-gallo-alvarez/)
 - **Yago de Carlos** — graduação (2019–2020), projeto: Oceanografia Operacional. Tempo de vínculo: 5 meses. Atualmente: [Linkedin](https://www.linkedin.com/in/yago-de-carlos-72374914a/)
+</div>
