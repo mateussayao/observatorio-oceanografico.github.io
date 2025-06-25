@@ -1,6 +1,6 @@
 ---
 title: "Notícias"
-layout: archive
+layout: collection
 permalink: /noticias/
 author_profile: false
 ---
