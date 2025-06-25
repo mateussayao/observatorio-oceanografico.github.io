@@ -1,6 +1,7 @@
 ---
 title: "Semana do Meio Ambiente terá gincana e trilha ecológica"
 date: 2025-06-01
+layout: single
 categories: [noticias]
 excerpt: "Evento da UFF acontecerá entre 4 e 7 de junho com várias atividades de campo e oficinas abertas."
 image: /assets/img/extensao_base.png
