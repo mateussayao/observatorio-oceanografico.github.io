@@ -1,5 +1,5 @@
- name: Observatório Oceanográfico
- title: Observatório Oceanográfico 
+title: Observatório Oceanográfico
+name: Observatório Oceanográfico
 email: observatoriooceanografico@gmail.com
 description: >-
   Laboratório institucional vinculado à Universidade Federal Fluminense.
@@ -35,13 +35,6 @@ defaults:
     values:
       layout: academic_profile      
 
-  - scope:
-      path: "_noticias"
-      type: noticias
-    values:
-      layout: single
-      author_profile: false
-
 navigation: main
 
 collections:
@@ -57,15 +50,11 @@ collections:
   equipe:
     output: true
     permalink: /equipe/:path/
-  noticias:
-    output: true
-    permalink: /noticias/:year/:month/:day/:title/
 
 include:
   - _pages
-  - _noticias
   - assets/css/custom_equipe.css
   
 sass:
   style: compressed
-
+  
