@@ -1,3 +1,9 @@
+/* Configuração da seção Alumni */
+.alumni-texto {
+  font-size: 0.85em;
+  line-height: 1.5;
+  color: #555;
+}
 
 /* Layout em grid responsivo para equipe */
 .equipe-grid {
