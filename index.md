@@ -8,4 +8,4 @@ header:
   caption: "Pesquisa e inovação em Oceanografia"
 ---
 
-O Observatório Oceanográfico é um laboratório interdisciplinar vinculado à UFF dedicado à pesquisa marinha, mudanças climáticas e tecnologias ambientais.
+O Observatório Oceanográfico é um laboratório interdisciplinar vinculado à UFF dedicado à pesquisa marinha, mudanças climáticas e tecnologias ambientais. Criado na UFF em 2015, na verdade o O2 é muito mais antigo. Sua ideia nasceu entre 2005 e 2007.
