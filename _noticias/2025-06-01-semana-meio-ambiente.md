@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Semana do Meio Ambiente terá gincana e trilha ecológica"
 date: 2025-06-01
 categories: [noticias]
