@@ -1,9 +1,10 @@
 ---
 title: "Notícias"
-layout: home
+layout: archive
 permalink: /noticias/
 author_profile: false
-sidebar: false
+collection: noticias
 ---
 
 Fique por dentro das novidades do Observatório Oceanográfico.
+
