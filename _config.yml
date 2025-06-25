@@ -43,13 +43,15 @@ collections:
     permalink: /ensino/:path/
   projetos:
     output: true
-    permalink: /projetos/:path/
   extensao:
     output: true
     permalink: /extensao/:path/
   equipe:
     output: true
     permalink: /equipe/:path/
+  noticias:
+    output: true
+    permalink: /noticias/:path/
 
 include:
   - _pages
