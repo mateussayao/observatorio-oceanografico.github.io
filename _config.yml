@@ -18,7 +18,7 @@ logo: "/assets/img/O2_logo_branco.png"
 
 defaults:
   - scope:
-      path: ""
+      path: "_posts"
       type: "posts"
     values:
       layout: single
@@ -43,6 +43,7 @@ collections:
     permalink: /ensino/:path/
   projetos:
     output: true
+    permalink: /projetos/:path/
   extensao:
     output: true
     permalink: /extensao/:path/
