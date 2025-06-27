@@ -1,11 +1,11 @@
 ---
 layout: academic_profile
-title: "Mateus Saiao"
-permalink: /equipe/mateus-saiao/
+title: "Mateus Sayão"
+permalink: /equipe/mateus-sayao/
 profile:
-  name: "Mateus Saiao"
+  name: "Mateus Sayão"
   profession: "Aluno de Mestrado"
-  avatar: "/assets/img/equipe/Mateus-Saiao.jpg"
+  avatar: "/assets/img/equipe/Mateus-Sayao.jpg"
   email: "contato@observatoriooceanografico.org"
   github: ""
   orcid: ""
