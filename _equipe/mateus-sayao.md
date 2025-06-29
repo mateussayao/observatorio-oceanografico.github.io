@@ -21,6 +21,10 @@ Ao longo da segunda graduação me aproximei do campo das geotecnologias, quando
 
 Atualmente participo do Projeto [ARA-TINGA](https://observatoriooceanografico.org/projetos/projeto-ara-tinga/). Minha atuação no projeto inclui o meu projeto de mestrado que combina análises geoespaciais com o aporte das ciências humanas, propondo um diálogo entre tecnologia, meio ambiente e sociedade. Busco contribuir para discussões sobre o “Antropoceno”, desafios das mudanças climáticas e conflitos socioambientais defendendo que as ciências humanas têm um papel fundamental na construção de abordagens interdisciplinares e alianças diante desses grandes temas globais - as “Humanidades Ambientais”.
 
+Além da pesquisa, também sou artista de circo e acrobata aére. Vejo arte e ciência como expressões de uma inquietação que brota do memso lugar dentro de nós — ambas alimentam meu pensamento e prática. Desenvolvo projetos envovlendo performance, audiovisual, dança, teatro e circo. Acredito que o pesquisador e o artista são dimensões inseparáveis da minha identidade.
+
+![Apresentação no Circo Crescer e Viver - 2023](images/screenshot.png)
+
 Entre as obras que me inspiram, destaco *Sexta-feira ou Os Limbos do Pacífico*, de Michel Tournier — uma releitura de *Robinson Crusoé*, de Defoe. Para mim, esse livro representa de maneira profunda a tensão essencial entre técnica, alteridade, sociedade em confronto com a existência humana.
 
 🖊️ Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
