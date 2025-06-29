@@ -24,5 +24,6 @@ Atualmente participo do Projeto [ARA-TINGA](https://observatoriooceanografico.or
 Entre as obras que me inspiram, destaco *Sexta-feira ou Os Limbos do Pacífico*, de Michel Tournier — uma releitura de *Robinson Crusoé*, de Defoe. Para mim, esse livro representa de maneira profunda a tensão essencial entre técnica, alteridade, sociedade em confronto com a existência humana.
 
 🖊️ Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
+
 📎 Para meu  [linkedim](https://www.linkedin.com/in/mateussayao/)
 
