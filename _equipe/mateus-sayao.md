@@ -6,7 +6,7 @@ profile:
   name: "Mateus Sayão"
   profession: "Aluno de Mestrado"
   avatar: "/assets/img/equipe/Mateus-Sayao.jpg"
-  email: "contato@observatoriooceanografico.org"
+  email: "mateussayao@id.uff.br"
   github: "https://github.com/mateussayao"
   orcid: "https://orcid.org/0009-0009-8303-3310"
   scholar: ""
@@ -19,13 +19,11 @@ Sou antropólogo de formação e atualmente sou mestrando no Programa de Pós-Gr
 
 Ao longo da segunda graduação me aproximei do campo das geotecnologias, quando tive a oportunidade de estagiar e entrar no Observatório Oceanográfico, num projeto de monitoramento de sítios antárticos e suas relações com as mudanças climáticas.
 
-Atualmente participo do Projeto [ARA-TINGA](https://observatoriooceanografico.org/projetos/projeto-ara-tinga/). Minha atuação no projeto inclui o meu projeto de mestrado que combina análises geoespaciais com o aporte das ciências humanas, propondo um diálogo entre tecnologia, meio ambiente e sociedade. Busco contribuir para discussões sobre o “Antropoceno”, desafios das mudanças climáticas e conflitos socioambientais defendendo que as ciências humanas têm um papel fundamental na construção de abordagens interdisciplinares e alianças diante desses grandes temas globais - as “Humanidades Ambientais”.
+Atualmente participo do projeto [ARA-TINGA](https://observatoriooceanografico.org/projetos/projeto-ara-tinga/). Minha atuação nele inclui o meu projeto de mestrado que combina análises geoespaciais com o aporte das ciências humanas, propondo um diálogo entre tecnologia, meio ambiente e sociedade. Busco contribuir para discussões sobre o “Antropoceno”, desafios das mudanças climáticas e conflitos socioambientais defendendo que as ciências humanas têm um papel fundamental na construção de abordagens interdisciplinares e alianças diante desses grandes temas globais - as “Humanidades Ambientais”.
 
-Além da pesquisa, também sou artista de circo e acrobata aére. Vejo arte e ciência como expressões de uma inquietação que brota do memso lugar dentro de nós — ambas alimentam meu pensamento e prática. Desenvolvo projetos envovlendo performance, audiovisual, dança, teatro e circo. Acredito que o pesquisador e o artista são dimensões inseparáveis da minha identidade.
+Além da pesquisa, também sou artista de circo e acrobata aéreo. Vejo arte e ciência como expressões de uma inquietação que brota do memso lugar dentro de nós. Ambas alimentam meu pensamento e prática. Desenvolvo projetos envovlendo performance, audiovisual, dança, teatro e circo. Acredito que o pesquisador e o artista são dimensões inseparáveis da minha identidade.
 
-![Apresentação no Circo Crescer e Viver - 2023](_equipe/Imagem Mateus.jpg)
-
-Entre as obras que me inspiram, destaco *Sexta-feira ou Os Limbos do Pacífico*, de Michel Tournier — uma releitura de *Robinson Crusoé*, de Defoe. Para mim, esse livro representa de maneira profunda a tensão essencial entre técnica, alteridade, sociedade em confronto com a existência humana.
+Curto muito obras de distopia e ficção científica porque nesse mesmo esforço interdisciplinar, acredito que a imaginação é uma potência. A autora Ursula K. Le Guin, autora do romance _A Mão Esquerda da Escuridão_, afirmou que: "A ficção científica não prevê; descreve". Entre as obras que me inspiram, destaco *Sexta-feira ou Os Limbos do Pacífico*, de Michel Tournier — uma releitura de *Robinson Crusoé*, de Defoe. Para mim, esse livro representa de maneira profunda a tensão essencial entre técnica, alteridade e sociedade em confronto com a existência humana.
 
 🖊️ Para contato: utilize o e-mail acima ou procure nossa equipe pelo site institucional.
 
