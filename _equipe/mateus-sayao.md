@@ -23,7 +23,7 @@ Atualmente participo do Projeto [ARA-TINGA](https://observatoriooceanografico.or
 
 Além da pesquisa, também sou artista de circo e acrobata aére. Vejo arte e ciência como expressões de uma inquietação que brota do memso lugar dentro de nós — ambas alimentam meu pensamento e prática. Desenvolvo projetos envovlendo performance, audiovisual, dança, teatro e circo. Acredito que o pesquisador e o artista são dimensões inseparáveis da minha identidade.
 
-![Apresentação no Circo Crescer e Viver - 2023](images/screenshot.png)
+![Apresentação no Circo Crescer e Viver - 2023](_equipe/Imagem Mateus.jpg)
 
 Entre as obras que me inspiram, destaco *Sexta-feira ou Os Limbos do Pacífico*, de Michel Tournier — uma releitura de *Robinson Crusoé*, de Defoe. Para mim, esse livro representa de maneira profunda a tensão essencial entre técnica, alteridade, sociedade em confronto com a existência humana.
 
